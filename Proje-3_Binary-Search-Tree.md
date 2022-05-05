@@ -56,7 +56,7 @@
 |               |  |\ |  |  |     |  |  |
 |               |  |  | 3|  |     |  |  |
 
-**3 sayısı  7'den, 5'ten ve 1'den küçük  olduğunda 1'in soluna ekledik**  
+**0 sayısı  7'den, 5'ten ve 1'den küçük  olduğunda 1'in soluna ekledik**  
 | Açıklama       |     |  |  |  |  |  |  |  |  |
 |--              |--   |--|- |- |- |- |- |- |- |
 |                |     |  |  |  |  |  | 7|  |  |  
@@ -67,7 +67,7 @@
 |                |     | /|  |\ |  |  |  |  |  |
 | **0 ekledik**  |**0**|  |  |  | 3|  |  |  |  |
 
-**9 sayısı  7'den ve 5'ten büyük olduğunda  8'in sağına ekledik**  
+**9 sayısı  7'den ve 8'den büyük olduğunda  8'in sağına ekledik**  
 | Açıklama     |  |  |  |  |  |  |  |  |  |  |     |
 |--            |--|--|- |- |- |- |- |- |- |- |-    |
 |              |  |  |  |  |  |  | 7|  |  |  |     |  
