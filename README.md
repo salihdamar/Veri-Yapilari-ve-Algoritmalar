@@ -19,20 +19,21 @@ ilk sayıdan bahsettiğimiz için ( 22 ) kendi başına sıralıdır. Hiç bir i
        
 2 ile bir gerisindeki sayıyı kıyaslar 2, 27 den küçüktür. 2 ile 27 yer değiştirir yani swap yapar. Daha sonra tekrar 2 ile 22 ü kıyaslar 2, 22 den de küçüktür. 2 ile 22 yer değiştirir. Daha sonra tekrar 2 ile 16 kıyaslar 2, 16 den de küçüktür. 2 ile 16 yer değiştirir.
 |4.Adım|16|22|2|27|18|6|-->|16|2|22|27|18|6| 
-|------|- |- |- |-|- |-|- -|- |- |- |-|- |-|
+|------|- |- |- |-|- |-|--|- |- |- |-|- |-|
 
-|2|16|22|27|18|6|
-|- |- |- |-|- |-|
+
+|-->|2|16|22|27|18|6|
+|-|- |- |- |-|- |-|
     
 18 ile bir gerisindeki sayıyı kıyaslar 18, 27 den küçüktür. 18 ile 27 yer değiştirir yani swap yapar. Daha sonra tekrar 18 ile 22  kıyaslar 18, 22 den de küçüktür. 18 ile 22 yer değiştirir. Daha sonra tekrar 18 ile 16 kıyaslar 18, 16 den de büyüktür. Herhangi bir değişiklik yapılmaz.
 |5.Adım|2|16|22|18|27|6|-->|2|16|18|22|27|6|
 |------|- |- |- |-|- |-|---|- |- |- |-|- |-|
    
 6 ile bir gerisindeki sayıyı kıyaslar 6, 27 den küçüktür. 6 ile 27 yer değiştirir yani swap yapar. Daha sonra tekrar 6 ile 22  kıyaslar 6, 22 den de küçüktür. 6 ile 22 yer değiştirir.  Daha sonra tekrar 6 ile 18 kıyaslar 6, 18 den de küçüktür. 6 ile 18 yer değiştirir. Daha sonra tekrar 6 ile 16  kıyaslar 6, 16 dan de küçüktür. 6 ile 16 yer değiştirir
-|6.Adım|2|16|18|22|6|27|------>|2|16|18|6|22|27|
+|6.Adım|2|16|18|22|6|27|-->|2|16|18|6|22|27|
 |------|- |- |- |-|- |-|-------|- |- |- |-|- |-|
     
-|6.Adım|2|16|6|18|22|27|------>|2|6|16|18|22|27|
+|6.Adım|2|16|6|18|22|27|-->|2|6|16|18|22|27|
 |------|- |- |- |-|- |-|-------|- |- |- |-|- |-|
      
 ##### 2. Big-O gösterimini yazınız.
