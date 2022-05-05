@@ -51,7 +51,7 @@ Worst case ile best casein ortalamasını aldığımızda   n^2 olarak buluruz.
 Tam sıralı dizi, n tane sayinin üzerinden birer defa geçer ve hiç birini geriye doğru ilerletme gereği olmadığı için bu tek geçişle kalır. Yani n
 
 ##### 4. Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
-Average case kapsamına girer.
+veri setinin sonunda olduğu için Worst case kapsamına girer.
     
 #### 2. [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
  |1.Adım|7|3|5|8|2|9|4|15|6|      
